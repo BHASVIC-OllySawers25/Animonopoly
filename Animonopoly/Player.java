@@ -16,4 +16,8 @@ public class Player extends Actor
     {
         // Add your action code here.
     }
+    public void moveSpace(int pos)
+    {
+        
+    }   
 }
