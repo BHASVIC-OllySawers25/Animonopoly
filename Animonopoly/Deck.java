@@ -14,7 +14,7 @@ public class Deck extends Actor
      */
     private Deck()
     {
-        int cardList{"","","","","","","","","","",""};
+        
     }
     public void act()
     {
@@ -22,7 +22,7 @@ public class Deck extends Actor
     }
     public int DrawCard()
     {
-        
-        return 0;
+        int cardNum = Greenfoot.getRandomNumber(20);
+        return cardNum;
     }
 }
