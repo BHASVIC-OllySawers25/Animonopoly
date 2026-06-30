@@ -12,8 +12,17 @@ public class Deck extends Actor
      * Act - do whatever the Deck wants to do. This method is called whenever
      * the 'Act' or 'Run' button gets pressed in the environment.
      */
+    private Deck()
+    {
+        
+    }
     public void act()
     {
         // Add your action code here.
+    }
+    public int DrawCard()
+    {
+        int cardNum = Greenfoot.getRandomNumber(20);
+        return cardNum;
     }
 }

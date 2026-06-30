@@ -1,0 +1,22 @@
+Cards:
+
+1:  gain 10
+2:  gain 50
+3:  gain 75
+4:  gain 100
+5:  gain 150
+6:  gain 250
+7:  gain 300
+8:  gain 500
+9:  gain 750
+10: gain 1000
+11: lose 10
+12: lose 50
+13: lose 75
+14: lose 100
+15: lose 150
+16: lose 250
+17: lose 300
+18: lose 500
+19: lose 750
+20: lose 1000 
